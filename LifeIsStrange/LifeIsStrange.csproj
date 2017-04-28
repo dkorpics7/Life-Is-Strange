@@ -94,6 +94,14 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="content\index.html" />
+    <Content Include="content\site.css" />
+    <Content Include="images\img0.jpg" />
+    <Content Include="images\junkyard.jpg" />
+    <Content Include="images\max7.png" />
+    <Content Include="images\maxresdefault.jpg" />
+    <Content Include="images\maxresdefault3.jpg" />
+    <Content Include="images\rsz_transparentlogo.png" />
     <Content Include="packages.config" />
     <Content Include="ApplicationInsights.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
